@@ -1,0 +1,13 @@
+# VM images and installers
+*.ova
+*.iso
+*.vdi
+*.vmdk
+*.msi
+*.zip
+
+# Raw exports may contain hostnames/usernames; commit screenshots instead
+*.csv
+
+.DS_Store
+Thumbs.db
